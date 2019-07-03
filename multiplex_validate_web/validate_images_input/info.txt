@@ -1,0 +1,15 @@
+1 N22800-multires_Image_985_ratio1.0_wsi.png
+2 N22800-multires_Image_986_ratio1.0_wsi.png
+3 N22800-multires_Image_987_ratio1.0_wsi.png
+4 N22800-multires_Image_988_ratio1.0_wsi.png
+5 N22800-multires_Image_993_ratio1.0_wsi.png
+6 O0135-multires_Image_632_ratio1.0_wsi.png
+7 O0135-multires_Image_633_ratio1.0_wsi.png
+8 O0135-multires_Image_634_ratio1.0_wsi.png
+9 O0135-multires_Image_635_ratio1.0_wsi.png
+10 O0135-multires_Image_636_ratio1.0_wsi.png
+11 O0135-multires_Image_637_ratio1.0_wsi.png
+12 O0135-multires_Image_638_ratio1.0_wsi.png
+13 O0135-multires_Image_639_ratio1.0_wsi.png
+14 O0135-multires_Image_642_ratio1.0_wsi.png
+15 O0135-multires_Image_643_ratio1.0_wsi.png
